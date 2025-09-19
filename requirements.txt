@@ -1,0 +1,4 @@
+ttkbootstrap
+opencv-python
+pyzbar
+Pillow
