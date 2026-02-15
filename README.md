@@ -1,6 +1,6 @@
 # QR-Barcode-Scanner
 
-A lightweight **Python-application** that detects and decodes **QR codes and barcodes** using your device’s webcam.
+A lightweight **Python-application** that decodes **QR codes and barcodes** that you uploaded.
 
 This project leverages:
 
@@ -49,9 +49,9 @@ Run the main script:
 python main.py
 ```
 
-### 🎯 Scanning
-- Click Scan
-- Point any **QR code** or **barcode** toward your webcam.
+### Scanning
+- Upload image
+- Click Scan Image
 - The decoded data will appear in the GUI.
   
 ---
